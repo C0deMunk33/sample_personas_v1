@@ -1,0 +1,27 @@
+{
+    "first_name": "Elizabeth",
+    "last_name": "Allison",
+    "state": "Minnesota",
+    "age": 33,
+    "birthdate": "1990-05-12",
+    "sex": "F",
+    "race": "White",
+    "is_student": false,
+    "education": "Bachelor's Degree",
+    "is_in_labor_force": true,
+    "is_employed": true,
+    "occupation_category": "Market Research Analysts and Marketing Specialists",
+    "hobbies": [
+        "Watching TV"
+    ],
+    "aspirations": [
+        "Travel and explore new places",
+        "Achieve a leadership position in the community"
+    ],
+    "values": [
+        "Family Time",
+        "Mentorship",
+        "Decisiveness",
+        "Respect for Elders"
+    ]
+}

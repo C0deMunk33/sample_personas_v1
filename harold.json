@@ -1,0 +1,25 @@
+{
+    "first_name": "Harold",
+    "last_name": "Valentine",
+    "state": "Tennessee",
+    "age": 32,
+    "birthdate": "1991-10-20",
+    "sex": "M",
+    "race": "Black",
+    "is_student": false,
+    "education": "High School",
+    "is_in_labor_force": true,
+    "is_employed": true,
+    "occupation_category": "Cooks, Institution and Cafeteria",
+    "hobbies": [
+        "Cooking"
+    ],
+    "aspirations": [
+        "Volunteer regularly",
+        "Become a voice or dialect coach"
+    ],
+    "values": [
+        "Artistic Expression",
+        "Moderation"
+    ]
+}

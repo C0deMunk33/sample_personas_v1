@@ -1,0 +1,28 @@
+{
+    "first_name": "Jennifer",
+    "last_name": "Wright",
+    "state": "Kentucky",
+    "age": 33,
+    "birthdate": "1990-04-13",
+    "sex": "F",
+    "race": "White",
+    "is_student": false,
+    "education": "Some College",
+    "is_in_labor_force": true,
+    "is_employed": true,
+    "occupation_category": "Packaging and Filling Machine Operators and Tenders",
+    "hobbies": [
+        "Crafting (Knitting/Crochet)"
+    ],
+    "aspirations": [
+        "Learn advanced pottery or ceramics",
+        "Live abroad",
+        "Learn advanced computer programming",
+        "Achieve financial security"
+    ],
+    "values": [
+        "Freedom of Choice",
+        "Courtesy (general decency)",
+        "Peace"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "first_name": "Vincent",
+    "last_name": "Goff",
+    "state": "New York",
+    "age": 29,
+    "birthdate": "1994-04-21",
+    "sex": "M",
+    "race": "White",
+    "is_student": false,
+    "education": "Bachelor's Degree",
+    "is_in_labor_force": false,
+    "is_employed": false,
+    "occupation_category": null,
+    "hobbies": [
+        "Boxing",
+        "Kayaking",
+        "Baking"
+    ],
+    "aspirations": [
+        "Build a strong retirement fund"
+    ],
+    "values": [
+        "Free Speech",
+        "Humor (not taking life too seriously)",
+        "Balanced Viewpoints"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "first_name": "Enrique",
+    "last_name": "Valladares",
+    "state": "Texas",
+    "age": 26,
+    "birthdate": "1997-01-28",
+    "sex": "M",
+    "race": "Hispanic",
+    "is_student": true,
+    "education": "Associate's Degree",
+    "is_in_labor_force": false,
+    "is_employed": false,
+    "occupation_category": null,
+    "hobbies": [
+        "Off-Roading/ATV"
+    ],
+    "aspirations": [
+        "Have a successful career",
+        "Contribute to charity or community"
+    ],
+    "values": [
+        "Security"
+    ]
+}

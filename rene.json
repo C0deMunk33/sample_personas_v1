@@ -1,0 +1,25 @@
+{
+    "first_name": "Rene",
+    "last_name": "Fernandez",
+    "state": "California",
+    "age": 27,
+    "birthdate": "1996-10-24",
+    "sex": "M",
+    "race": "Hispanic",
+    "is_student": false,
+    "education": "Doctorate",
+    "is_in_labor_force": true,
+    "is_employed": true,
+    "occupation_category": "Pediatricians, General",
+    "hobbies": [
+        "Watching TV",
+        "Fishing"
+    ],
+    "aspirations": [
+        "Develop new skills or hobbies",
+        "Live on a boat"
+    ],
+    "values": [
+        "Stability"
+    ]
+}
